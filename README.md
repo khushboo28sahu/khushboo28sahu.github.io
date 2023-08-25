@@ -2,6 +2,7 @@
 ## About
 <p align="justify"> 
 Curious explorer with a persistent drive for innovation in Science and Technology. I bring a solid academic foundation in Computer Science Engineering and a Master's in Data Science and Artificial Intelligence. As a researcher, my journey has led me to dive into projects that span crafting intelligent 6G Communication solutions to leveraging Machine Learning models for real-world applications such as speaker identification and adaptive algorithms for innovative ambulance systems. With a toolkit that includes TensorFlow, PyTorch, and more, I thrive in collaborative environments, fostering interdisciplinary teamwork to create impactful solutions. 
+</p>
 
 
 ## Education 
@@ -68,4 +69,3 @@ of critical situations to enhance the (pre- and post-) healthcare system. We sha
 world results with a detailed explanation of front-end and back-end procedures to validate the proposed algorithms.
 ![End-to-end communication system](images/MAS_arch.jpg)
 
-</p>
