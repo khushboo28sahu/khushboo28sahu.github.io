@@ -2,16 +2,16 @@
 ## About
 <p align="justify"> 
 Curious explorer with a persistent drive for innovation in Science and Technology. I bring a solid academic foundation in Computer Science Engineering and a Master's in Data Science and Artificial Intelligence. As a researcher, my journey has led me to dive into projects that span crafting intelligent 6G Communication solutions to leveraging Machine Learning models for real-world applications such as speaker identification and adaptive algorithms for innovative ambulance systems. With a toolkit that includes TensorFlow, PyTorch, and more, I thrive in collaborative environments, fostering interdisciplinary teamwork to create impactful solutions. 
-</p>
+
 
 ## Education 
-- **Master of Technology**, CSE, Specialization: DS&AI | *International Institute of Information Technology, Naya Raipur* _August 2019 - July 2021_
-- **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* _August 2015 - July 2019_
+  - **Master of Technology**, CSE, Specialization: DS&AI | *International Institute of Information Technology, Naya Raipur* _August 2019 - July 2021_
+  - **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* _August 2015 - July 2019_
 
 ## Research Experience
  **Junior Research Fellow** | Indian Institute of Technology, Bhilai \
    **Supervisor** : Dr. Arzad Alam Kherani | _November, 2022 - Present_ \
-   **Project Title** : *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*\
+   **Project Title** : *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
    - Collaborating on Self-Supervised Learning models for wireless Channel Estimation.
    - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
      standardization for IRS-based 6G wireless communication [1].
@@ -67,3 +67,5 @@ to-end delay jitter performance in multi-access. We then propose a standardized 
 of critical situations to enhance the (pre- and post-) healthcare system. We share the product-level implementation and real-
 world results with a detailed explanation of front-end and back-end procedures to validate the proposed algorithms.
 ![End-to-end communication system](images/MAS_arch.jpg)
+
+</p>
