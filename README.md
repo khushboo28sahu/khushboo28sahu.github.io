@@ -54,7 +54,7 @@ been achieved if RIS is deployed. Also, an algorithm at GRC finds the beamformin
 
 ![RIS assisted communication](images/RIS_system_model1.png)
 
-**Title :** *Smart-ambulance: Services using Multiple Network Paths and Open APIs *
+**Title :**  *Smart-ambulance: Services using Multiple Network Paths and Open APIs*
 
 Nowadays, to enhance patient care and pre-hospital services, the healthcare and emergency response systems have
 come together to provide immediate and timely treatment via smart ambulance services. These services are improving to match
