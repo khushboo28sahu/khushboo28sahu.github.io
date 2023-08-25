@@ -32,5 +32,6 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 
 ## Projects
 ### Project 1
+Apple | [Juicy](https://example.com/SomeReallyReallyReallyReallyReallyReallyReallyReallyLongQuery), Firm, Sweet | Apples keep doctors away.
 ### Project 2
 ### Project 3
