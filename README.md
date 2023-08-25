@@ -17,13 +17,13 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    
   **Junior Research Fellow** | *Indian Institute of Technology, Bhilai*\
    **Supervisor :** Dr. Arzad Alam Kherani   |     _March, 2022 - October, 2022_\
-   **Project Title:** *Massive Multi-Access to Provide UHD Quality Video And Real-time Data Delivery From
-   a Connected Mobile Ambulance And Its Extension To Other Disaster Recovery Scenarios.*
+   **Project Title:** *Massive Multi-Access to Provide UHD Quality Video And Real-time Data Delivery From 
+     a Connected Mobile Ambulance And Its Extension To Other Disaster Recovery Scenarios.*
    - Contributed to system architecture, algorithm development, and prototype development of massive\
      multi-access Rpi setup to provide UHD video streaming [3].
    - Developed a public Flask API server with the hospital web application.
 
- **Master’s Thesis** | *Collaborated Govivace-Inc & IIIT NR*
+ **Master’s Thesis** | *Collaborated Govivace-Inc & IIIT NR*\
    **Supervisor:** Dr. Santosh Kumar       |  _September, 2020 - May, 2021_\
    **Project Title:** *Speaker Accent Identification Using The Time Delay Neural Network Architecture For The
    Indian Language.*
