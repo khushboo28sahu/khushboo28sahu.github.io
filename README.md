@@ -8,7 +8,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 
 ## Research Experience
  **Junior Research Fellow** | Indian Institute of Technology, Bhilai \
-   **Supervisor** : Dr. Arzad Alam Kherani | (_November, 2022 - Present_) \
+   **Supervisor** : Dr. Arzad Alam Kherani | _November, 2022 - Present_ \
    **Project Title** : *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*\
    - Collaborating on Self-Supervised Learning models for wireless Channel Estimation.
    - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
@@ -16,7 +16,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    - Developed prototype of IRS with Channel Estimator and IRS Generic Controller [2].
    
   **Junior Research Fellow** | *Indian Institute of Technology, Bhilai*\
-   **Supervisor :** Dr. Arzad Alam Kherani   |     (_March, 2022 - October, 2022_)\
+   **Supervisor :** Dr. Arzad Alam Kherani   |     _March, 2022 - October, 2022_\
    **Project Title:** *Massive Multi-Access to Provide UHD Quality Video And Real-time Data Delivery From
    a Connected Mobile Ambulance And Its Extension To Other Disaster Recovery Scenarios.*
    - Contributed to system architecture, algorithm development, and prototype development of massive\
@@ -25,7 +25,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 
  **Master’s Thesis** | *Collaborated Govivace-Inc & IIIT NR*
    **Supervisor:** Dr. Santosh Kumar       |  _September, 2020 - May, 2021_\
-   **Project Title :** *Speaker Accent Identification Using The Time Delay Neural Network Architecture For The
+   **Project Title:** *Speaker Accent Identification Using The Time Delay Neural Network Architecture For The
    Indian Language.*
    - Developed the Time Delay Neural Network model to identify Indian speakers’ accents.
    - Collected data from participants and analyzed data using Kaldi and Tensorflow.
