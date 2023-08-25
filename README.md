@@ -32,6 +32,15 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 
 ## Projects
 **Title :** *Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications*
+
+One-bit beamforming codebook for Reconfigurable Intelligent Surface (RIS) is designed for an indoor
+environment. Each codeword in a codebook is a phase pattern at RIS elements that reflects the signal to a desired angle. For
+a specific reflection angle, those codewords are computed that maximizes the signal-to-noise ratio (SNR) at the receiver (RX).
+Since multiple codewords can maximize the SNR, an algorithm to reduce the size of the codebook is proposed. This ensures that
+the codebook does not contain repetitive codewords. In addition, after the codebook design, the codeword selection procedure is
+performed using an Autoencoder (AE) that minimizes the Bit Error Rate (BER) at the receiver. The proposed method shows
+promising results compared to existing techniques in terms of BER with reduced codebook size.
+
 ![RIS](images/RIS_intro.png)
 
 ### Project 2
