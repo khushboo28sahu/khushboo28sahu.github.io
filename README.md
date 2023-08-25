@@ -3,8 +3,8 @@
 Curious explorer with a persistent drive for innovation in Science and Technology. I bring a solid academic foundation in Computer Science Engineering and a Master's in Data Science and Artificial Intelligence. As a researcher, my journey has led me to dive into projects that span crafting intelligent 6G Communication solutions to leveraging Machine Learning models for real-world applications such as speaker identification and adaptive algorithms for innovative ambulance systems. With a toolkit that includes TensorFlow, PyTorch, and more, I thrive in collaborative environments, fostering interdisciplinary teamwork to create impactful solutions.
 
 ## Education 
-- **Master of Technology**, CSE, Specialization: DS&AI | *International Institute of Information Technology, Naya Raipur* (_August 2019 - July 2021_)</br>
-- **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* (_August 2015 - July 2019_) </br>
+- **Master of Technology**, CSE, Specialization: DS&AI | *International Institute of Information Technology, Naya Raipur* (_August 2019 - July 2021_)
+- **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* (_August 2015 - July 2019_) 
 
 ## Research Experience
  **Junior Research Fellow** | Indian Institute of Technology, Bhilai \
