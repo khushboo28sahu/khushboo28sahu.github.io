@@ -33,5 +33,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 ## Projects
 ### Project 1
 Apple | [Juicy](https://example.com/SomeReallyReallyReallyReallyReallyReallyReallyReallyLongQuery), Firm, Sweet | Apples keep doctors away.
+![diffy the kung fu review cuckoo](http://commondatastorage.googleapis.com/gerrit-static/diffy-w200.png)
+
 ### Project 2
 ### Project 3
