@@ -34,7 +34,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    - Collected data from participants and analyzed data using Kaldi and Tensorflow.
 
 ## Projects
-**Title:** *Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications*
+**Title:** ***Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications***
 
 <p align="justify"> 
 This project focuses on optimizing beamforming for Reconfigurable Intelligent Surfaces (RIS) in indoor settings. 
@@ -44,18 +44,14 @@ We've developed an algorithm that streamlines the codebook by eliminating repeti
 We employ an Autoencoder (AE) for codeword selection, minimizing the Bit Error Rate (BER) at the receiver.
 Our approach demonstrates promising results in terms of BER reduction while maintaining a compact codebook 
 size, surpassing existing techniques.
-<!-- The one-bit beamforming codebook for Reconfigurable Intelligent Surfaces (RIS) is designed for an indoor environment. Each codeword in a codebook is a phase pattern at RIS elements that reflects the signal to a desired angle. Those codewords are computed for a specific reflection angle that maximizes the signal-to-noise ratio (SNR) at the receiver (RX). Since multiple codewords can maximize the SNR, an algorithm to reduce the size of the codebook is proposed. This ensures that the codebook does not contain repetitive codewords. In addition, after the codebook design, the codeword selection procedure is performed using an Autoencoder (AE) that minimizes the Bit Error Rate (BER) at the receiver. The proposed method shows promising results compared to existing techniques regarding BER with reduced codebook size. -->
 </p>
-<!-- <center> <img src="images/RIS_intro.png", alt="centered image", width="100%" /> </center> -->
-<!-- <img src="images/AEpaperDiagram.png", width="100%"/> -->
-
 
 ![RIS assisted communication without Line of Sight](images/RIS_intro.png)
 ![Autoencoder for RIS assisted communication](images/AEpaperDiagram.png)
 
 
 
-**Title:** *TSDSI Standards Driven Implementation of Smart Radio Environment*
+**Title:** ***TSDSI Standards Driven Implementation of Smart Radio Environment***
 <p align="justify"> 
 This project showcases the implementation of an intelligent radio environment (SRE) communication system using
 reconfigurable intelligent surfaces (RIS). Positioned between the transmitter and receiver, the RIS reflects 
@@ -69,9 +65,7 @@ Additionally, the GRC employs an algorithm to optimize beamforming angles for ma
 
 ![RIS assisted communication](images/RIS_system_model1.png)
 
-
-
-**Title :**  *Smart-ambulance: Services using Multiple Network Paths and Open APIs*
+**Title :**  ***Smart-ambulance: Services using Multiple Network Paths and Open APIs***
 
 <p align="justify"> 
 This project focuses on improving patient care by integrating smart ambulance services with healthcare systems.
