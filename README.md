@@ -36,7 +36,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 ## Projects
 **Title :** *Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications*
 <p align="justify"> 
-The one-bit beamforming codebook for Reconfigurable Intelligent Surfaces (RIS) is designed for an indoor environment. Each codeword in a codebook is a phase pattern at RIS elements that reflects the signal to a desired angle. Those codewords are computed for a specific reflection angle that maximizes the signal-to-noise ratio (SNR) at the receiver (RX). Since multiple codewords can maximize the SNR, an algorithm to reduce the size of the codebook is proposed. This ensures that the codebook does not contain repetitive codewords. In addition, after the codebook design, the codeword selection procedure is performed using an Autoencoder (AE) that minimizes the Bit Error Rate (BER) at the receiver. The proposed method shows promising results compared to existing techniques regarding BER with reduced codebook size.
+<!-- The one-bit beamforming codebook for Reconfigurable Intelligent Surfaces (RIS) is designed for an indoor environment. Each codeword in a codebook is a phase pattern at RIS elements that reflects the signal to a desired angle. Those codewords are computed for a specific reflection angle that maximizes the signal-to-noise ratio (SNR) at the receiver (RX). Since multiple codewords can maximize the SNR, an algorithm to reduce the size of the codebook is proposed. This ensures that the codebook does not contain repetitive codewords. In addition, after the codebook design, the codeword selection procedure is performed using an Autoencoder (AE) that minimizes the Bit Error Rate (BER) at the receiver. The proposed method shows promising results compared to existing techniques regarding BER with reduced codebook size. -->
 </p>
 <!-- <center> <img src="images/RIS_intro.png", alt="centered image", width="100%" /> </center> -->
 <!-- <img src="images/AEpaperDiagram.png", width="100%"/> -->
@@ -49,7 +49,7 @@ The one-bit beamforming codebook for Reconfigurable Intelligent Surfaces (RIS) i
 
 **Title:** *TSDSI Standards Driven Implementation of Smart Radio Environment*
 <p align="justify"> 
-This paper presents a prototype implementation of an intelligent radio environment (SRE) based communication system. A
+<!-- This paper presents a prototype implementation of an intelligent radio environment (SRE) based communication system. A
 reflecting plate, a reconfigurable intelligent surface (RIS) is placed between the transmitter and receiver to build the SRE. The RIS
 can rotate to reflect the incident wave in a particular direction. The experimental model consists of a channel estimator (CE),
 a generic RIS controller (GRC), and a RIS-specific controller (RSC). The channel estimator is equipped with two USRP’s that
@@ -57,7 +57,7 @@ act as transmitter and receiver. Further, based on the desired throughput requir
 which in turn sends commands to the RSC that controls the RIS. Since a RIS can be designed and fabricated in many ways, a
 TSDSI standard is in place to list the interface/messages between the wireless system and the RIS. These standardized commands
 are used to exchange messages between the GRC and RSC. With this setup, the received power improvement of around 20 dBm has
-been achieved if RIS is deployed. Also, an algorithm at GRC finds the beamforming angle where the received power is maximized.
+been achieved if RIS is deployed. Also, an algorithm at GRC finds the beamforming angle where the received power is maximized. -->
 <!-- <img src="images/RIS_system_model1.png", width="100%"/> -->
 </p>
 ![RIS assisted communication](images/RIS_system_model1.png)
@@ -65,7 +65,7 @@ been achieved if RIS is deployed. Also, an algorithm at GRC finds the beamformin
 **Title :**  *Smart-ambulance: Services using Multiple Network Paths and Open APIs*
 
 <p align="justify"> 
-Nowadays, to enhance patient care and pre-hospital services, the healthcare and emergency response systems have
+<!-- Nowadays, to enhance patient care and pre-hospital services, the healthcare and emergency response systems have
 come together to provide immediate and timely treatment via smart ambulance services. These services are improving to match
 the current healthcare requirements for patient care, which equally demand up-gradation at the hospital end for immediate
 and speedy services. We first present a multi-access solution for streaming ultra-high definition video in the uplink from a mobile
@@ -74,7 +74,7 @@ paths and interfaces and apply inter-stream coding for reliable transmission. Th
 to-end delay jitter performance in multi-access. We then propose a standardized set of APIs to access the smart-ambulance services
 (live data) for better utilization of the information, making the hospital system highly responsive and adaptable to the demands
 of critical situations to enhance the (pre- and post-) healthcare system. We share the product-level implementation and real--
-world results with a detailed explanation of front-end and back-end procedures to validate the proposed algorithms.
+world results with a detailed explanation of front-end and back-end procedures to validate the proposed algorithms. -->
 <!-- <img src="images/MAS_arch.jpg", width="100%"/> -->
 </p>
 ![End-to-end communication system](images/MAS_arch.jpg)
