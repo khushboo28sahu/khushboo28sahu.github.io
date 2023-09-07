@@ -41,9 +41,11 @@ The one-bit beamforming codebook for Reconfigurable Intelligent Surfaces (RIS) i
 ![RIS assisted communication without Line of Sight](images/RIS_intro.png)
 ![Autoencoder for RIS assisted communication](images/AEpaperDiagram.png)
 </p>
-**Title :** *TSDSI Standards Driven Implementation of Smart Radio Environment*
+
+
+**Title:** *TSDSI Standards Driven Implementation of Smart Radio Environment*
 <p align="justify"> 
-his paper presents a prototype implementation of an intelligent radio environment (SRE) based communication system. A
+This paper presents a prototype implementation of an intelligent radio environment (SRE) based communication system. A
 reflecting plate, a reconfigurable intelligent surface (RIS) is placed between the transmitter and receiver to build the SRE. The RIS
 can rotate to reflect the incident wave in a particular direction. The experimental model consists of a channel estimator (CE),
 a generic RIS controller (GRC), and a RIS-specific controller (RSC). The channel estimator is equipped with two USRP’s that
@@ -55,7 +57,9 @@ been achieved if RIS is deployed. Also, an algorithm at GRC finds the beamformin
 
 ![RIS assisted communication](images/RIS_system_model1.png)
 </p>
+
 **Title :**  *Smart-ambulance: Services using Multiple Network Paths and Open APIs*
+
 <p align="justify"> 
 Nowadays, to enhance patient care and pre-hospital services, the healthcare and emergency response systems have
 come together to provide immediate and timely treatment via smart ambulance services. These services are improving to match
@@ -64,8 +68,8 @@ and speedy services. We first present a multi-access solution for streaming ultr
 system. We propose an application layer solution to intelligently split and distribute the video traffic among the multiple network
 paths and interfaces and apply inter-stream coding for reliable transmission. The approach aims to enhance and control the end-
 to-end delay jitter performance in multi-access. We then propose a standardized set of APIs to access the smart-ambulance services
-(live data) for better utilization of the information, making the hospital system highly responsive and adaptable to the demand
-of critical situations to enhance the (pre- and post-) healthcare system. We share the product-level implementation and real-
+(live data) for better utilization of the information, making the hospital system highly responsive and adaptable to the demands
+of critical situations to enhance the (pre- and post-) healthcare system. We share the product-level implementation and real--
 world results with a detailed explanation of front-end and back-end procedures to validate the proposed algorithms.
 
 ![End-to-end communication system](images/MAS_arch.jpg)
