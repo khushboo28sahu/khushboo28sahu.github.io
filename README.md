@@ -37,9 +37,12 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 **Title :** *Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications*
 <p align="justify"> 
 The one-bit beamforming codebook for Reconfigurable Intelligent Surfaces (RIS) is designed for an indoor environment. Each codeword in a codebook is a phase pattern at RIS elements that reflects the signal to a desired angle. Those codewords are computed for a specific reflection angle that maximizes the signal-to-noise ratio (SNR) at the receiver (RX). Since multiple codewords can maximize the SNR, an algorithm to reduce the size of the codebook is proposed. This ensures that the codebook does not contain repetitive codewords. In addition, after the codebook design, the codeword selection procedure is performed using an Autoencoder (AE) that minimizes the Bit Error Rate (BER) at the receiver. The proposed method shows promising results compared to existing techniques regarding BER with reduced codebook size.
+<center> <img src="images/RIS_intro.png",alt="centered image", width="100%" /> </center>
+<img src="images/AEpaperDiagram.png", width="100%"/>
 
-![RIS assisted communication without Line of Sight](images/RIS_intro.png)
-![Autoencoder for RIS assisted communication](images/AEpaperDiagram.png)
+
+<!--![RIS assisted communication without Line of Sight](images/RIS_intro.png)
+![Autoencoder for RIS assisted communication](images/AEpaperDiagram.png) -->
 </p>
 
 
@@ -54,8 +57,8 @@ which in turn sends commands to the RSC that controls the RIS. Since a RIS can b
 TSDSI standard is in place to list the interface/messages between the wireless system and the RIS. These standardized commands
 are used to exchange messages between the GRC and RSC. With this setup, the received power improvement of around 20 dBm has
 been achieved if RIS is deployed. Also, an algorithm at GRC finds the beamforming angle where the received power is maximized.
-
-![RIS assisted communication](images/RIS_system_model1.png)
+<img src="images/RIS_system_model1.png", width="100%"/>
+<!-- ![RIS assisted communication](images/RIS_system_model1.png) -->
 </p>
 
 **Title :**  *Smart-ambulance: Services using Multiple Network Paths and Open APIs*
@@ -71,8 +74,8 @@ to-end delay jitter performance in multi-access. We then propose a standardized 
 (live data) for better utilization of the information, making the hospital system highly responsive and adaptable to the demands
 of critical situations to enhance the (pre- and post-) healthcare system. We share the product-level implementation and real--
 world results with a detailed explanation of front-end and back-end procedures to validate the proposed algorithms.
-
-![End-to-end communication system](images/MAS_arch.jpg)
+<img src="images/MAS_arch.jpg", width="100%"/>
+<!-- ![End-to-end communication system](images/MAS_arch.jpg) -->
 </p>
 
 
