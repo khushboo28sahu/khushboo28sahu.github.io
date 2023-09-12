@@ -51,7 +51,7 @@ size, surpassing existing techniques.
 
 
 
-**Title:** ***TSDSI Standards Driven Implementation of Smart Radio Environment***
+**Title:** ***Implementation of Smart Radio Environment***
 <p align="justify"> 
 This project showcases the implementation of an intelligent radio environment (SRE) communication system using
 reconfigurable intelligent surfaces (RIS). Positioned between the transmitter and receiver, the RIS reflects 
