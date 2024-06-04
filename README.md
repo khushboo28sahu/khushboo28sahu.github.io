@@ -19,7 +19,6 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
  **Junior Research Fellow** | Indian Institute of Technology, Bhilai \
    **Supervisor**: _November 2022 - December 2023_ \
    **Project Title**: *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
-   - Collaborating on Self-Supervised Learning models for wireless Channel Estimation.
    - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
      standardization for IRS-based 6G wireless communication [1].
    - Developed prototype of IRS with Channel Estimator and IRS Generic Controller [2].
