@@ -4,30 +4,29 @@
 Curious explorer with a persistent drive for innovation in Science and Technology. I bring a solid academic foundation in Computer Science Engineering and a Master's in Data Science and Artificial Intelligence. As a researcher, my journey has led me to dive into projects that span crafting intelligent 6G Communication solutions to leveraging Machine Learning models for real-world applications such as speaker identification and adaptive algorithms for innovative ambulance systems. With a toolkit that includes TensorFlow, PyTorch, and more, I thrive in collaborative environments, fostering interdisciplinary teamwork to create impactful solutions. 
 </p>
 
-
 ## Education 
   - **Master of Technology**, CSE, Specialization: DS&AI | *International Institute of Information Technology, Naya Raipur* _August 2019 - July 2021_
   - **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* _August 2015 - July 2019_
 
 ## Research Experience
 **Project Research Engineer** | Indian Institute of Technology, Bombay \
-   **Supervisor** : _April 2024 - Present_ \
-   **Project Title** : *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
+   **Supervisor**: _April 2024 - Present_ \
+   **Project Title**: *Development of Smart Drone Ecosystem and Demonstration of Social Applications Towards Larger Drone Deployment Strategy of Maharashtra.*
    - Collaborating on Self-Supervised Learning models for wireless Channel Estimation.
    - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
      standardization for IRS-based 6G wireless communication [1].
    - Developed prototype of IRS with Channel Estimator and IRS Generic Controller [2].
 
  **Junior Research Fellow** | Indian Institute of Technology, Bhilai \
-   **Supervisor** : _November 2022 - December 2023_ \
-   **Project Title** : *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
+   **Supervisor**: _November 2022 - December 2023_ \
+   **Project Title**: *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
    - Collaborating on Self-Supervised Learning models for wireless Channel Estimation.
    - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
      standardization for IRS-based 6G wireless communication [1].
    - Developed prototype of IRS with Channel Estimator and IRS Generic Controller [2].
    
   **Junior Research Fellow** | *Indian Institute of Technology, Bhilai*\
-   **Supervisor :**  _March 2022 - October 2022_\
+   **Supervisor**:  _March 2022 - October 2022_\
    **Project Title:** *Massive Multi-Access to Provide UHD Quality Video And Real-time Data Delivery From 
      a Connected Mobile Ambulance And Its Extension To Other Disaster Recovery Scenarios.*
    - Contributed to system architecture, algorithm development, and prototype development of massive\
@@ -35,14 +34,14 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    - Developed a public Flask API server with the hospital web application.
 
  **Master’s Thesis** | *Collaborated Govivace-Inc & IIIT NR*\
-   **Supervisor:**  _September 2020 - May 2021_\
-   **Project Title:** *Speaker Accent Identification Using The Time Delay Neural Network Architecture For The
+   **Supervisor**:  _September 2020 - May 2021_\
+   **Project Title**: *Speaker Accent Identification Using The Time Delay Neural Network Architecture For The
    Indian Language.*
    - Developed the Time Delay Neural Network model to identify Indian speakers’ accents.
    - Collected data from participants and analyzed data using Kaldi and Tensorflow.
 
 ## Projects
-**Title:** ***Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications***
+**Title**: ***Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications***
 
 <p align="justify"> 
 This project focuses on optimizing beamforming for Reconfigurable Intelligent Surfaces (RIS) in indoor settings. 
@@ -59,7 +58,7 @@ size, surpassing existing techniques.
 
 
 
-**Title:** ***Implementation of Smart Radio Environment***
+**Title**: ***Implementation of Smart Radio Environment***
 <p align="justify"> 
 This project showcases the implementation of an intelligent radio environment (SRE) communication system using
 reconfigurable intelligent surfaces (RIS). Positioned between the transmitter and receiver, the RIS reflects 
@@ -73,7 +72,7 @@ Additionally, the GRC employs an algorithm to optimize beamforming angles for ma
 
 ![RIS assisted communication](images/RIS_system_model1.png)
 
-**Title :**  ***Smart-ambulance: Services using Multiple Network Paths and Open APIs***
+**Title**:  ***Smart-ambulance: Services using Multiple Network Paths and Open APIs***
 
 <p align="justify"> 
 This project focuses on improving patient care by integrating smart ambulance services with healthcare systems.
