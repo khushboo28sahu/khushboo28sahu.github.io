@@ -10,8 +10,16 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
   - **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* _August 2015 - July 2019_
 
 ## Research Experience
+**Project Research Engineer** | Indian Institute of Technology, Bombay \
+   **Supervisor** : _April 2024 - Present_ \
+   **Project Title** : *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
+   - Collaborating on Self-Supervised Learning models for wireless Channel Estimation.
+   - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
+     standardization for IRS-based 6G wireless communication [1].
+   - Developed prototype of IRS with Channel Estimator and IRS Generic Controller [2].
+
  **Junior Research Fellow** | Indian Institute of Technology, Bhilai \
-   **Supervisor** : Dr. Arzad Alam Kherani | _November, 2022 - Present_ \
+   **Supervisor** : _November 2022 - December 2023_ \
    **Project Title** : *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
    - Collaborating on Self-Supervised Learning models for wireless Channel Estimation.
    - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
@@ -19,7 +27,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    - Developed prototype of IRS with Channel Estimator and IRS Generic Controller [2].
    
   **Junior Research Fellow** | *Indian Institute of Technology, Bhilai*\
-   **Supervisor :** Dr. Arzad Alam Kherani   |     _March, 2022 - October, 2022_\
+   **Supervisor :**  _March 2022 - October 2022_\
    **Project Title:** *Massive Multi-Access to Provide UHD Quality Video And Real-time Data Delivery From 
      a Connected Mobile Ambulance And Its Extension To Other Disaster Recovery Scenarios.*
    - Contributed to system architecture, algorithm development, and prototype development of massive\
@@ -27,7 +35,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    - Developed a public Flask API server with the hospital web application.
 
  **Master’s Thesis** | *Collaborated Govivace-Inc & IIIT NR*\
-   **Supervisor:** Dr. Santosh Kumar       |  _September, 2020 - May, 2021_\
+   **Supervisor:**  _September 2020 - May 2021_\
    **Project Title:** *Speaker Accent Identification Using The Time Delay Neural Network Architecture For The
    Indian Language.*
    - Developed the Time Delay Neural Network model to identify Indian speakers’ accents.
