@@ -5,8 +5,8 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 </p>
 
 ## Education 
-  - **Master of Technology**, CSE, Specialization: DS&AI | *International Institute of Information Technology, Naya Raipur* _August 2019 - July 2021_
-  - **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* _August 2015 - July 2019_
+  - **Master of Technology**, CSE, Specialization: DS&AI | *International Institute of Information Technology, Naya Raipur* | _August 2019 - July 2021_
+  - **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* | _August 2015 - July 2019_
 
 ## Research Experience
 **Project Research Engineer** | Indian Institute of Technology, Bombay \
