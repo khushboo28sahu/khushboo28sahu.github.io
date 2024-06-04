@@ -12,10 +12,9 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 **Project Research Engineer** | Indian Institute of Technology, Bombay \
    **Supervisor**: _April 2024 - Present_ \
    **Project Title**: *Development of Smart Drone Ecosystem and Demonstration of Social Applications Towards Larger Drone Deployment Strategy of Maharashtra.*
-   - Collaborating on Self-Supervised Learning models for wireless Channel Estimation.
-   - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
-     standardization for IRS-based 6G wireless communication [1].
-   - Developed prototype of IRS with Channel Estimator and IRS Generic Controller [2].
+   - Working on the drone communication, specifically drone-to-drone, drone-to-ground control station (GCS), and drone-to-docking station.
+   - Currently working on drone swarm communication in ros based rpi-setup along with Cube Orange + and RFD modem.
+   - Exploring state-of-the-art protocols to establish the reliable and efficient connection between the sensors and drone.
 
  **Junior Research Fellow** | Indian Institute of Technology, Bhilai \
    **Supervisor**: _November 2022 - December 2023_ \
