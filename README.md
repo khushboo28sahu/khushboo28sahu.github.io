@@ -41,8 +41,11 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 ## Projects
 **Title**: ***Drone Swarm Communication and co-ordination using RFD modem and 5G technology***
 <p align="justify">
-This project focuses on the distributed communication amongst the swarm of drones for research and rescue purposes.    
-[!Drone swarn communication](images/UAV swarms.jpg)
+This project focuses on the distributed communication amongst the swarm of drones for research and rescue purposes.
+</p>
+![Drone swarn communication](images/UAV swarms.jpg)
+
+  
 **Title**: ***Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications***
 
 <p align="justify"> 
