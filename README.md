@@ -20,15 +20,15 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    **Supervisor**: _November 2022 - December 2023_ \
    **Project Title**: *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
    - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
-     standardization for IRS-based 6G wireless communication [1].
-   - Developed prototype of IRS with Channel Estimator and IRS Generic Controller [2].
+     standardization for IRS-based 6G wireless communication.
+   - Developed prototype of IRS with Channel Estimator and IRS Generic Controller.
    
   **Junior Research Fellow** | *Indian Institute of Technology, Bhilai*\
    **Supervisor**:  _March 2022 - October 2022_\
    **Project Title:** *Massive Multi-Access to Provide UHD Quality Video And Real-time Data Delivery From 
      a Connected Mobile Ambulance And Its Extension To Other Disaster Recovery Scenarios.*
    - Contributed to system architecture, algorithm development, and prototype development of massive\
-     multi-access Rpi setup to provide UHD video streaming [3].
+     multi-access Rpi setup to provide UHD video streaming .
    - Developed a public Flask API server with the hospital web application.
 
  **Master’s Thesis** | *Collaborated Govivace-Inc & IIIT NR*\
