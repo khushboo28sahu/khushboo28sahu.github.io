@@ -39,9 +39,12 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    - Collected data from participants and analyzed data using Kaldi and Tensorflow.
 
 ## Projects
-**Title**: ***Drone Swarm Communication and co-ordination using RFD modem and 5G technology***
+**Title**: ***Drone Swarm Communication and Co-ordination Using 5G technology and RFD radio modem.***
 <p align="justify">
-This project focuses on the distributed communication amongst the swarm of drones for research and rescue purposes.
+  This project focuses on the distributed communications system amongst drone swarms for research and rescue purposes. 
+  In this work, the telemetry data (e.g. text, video, etc.) is shared amongst the drone for real-time shape formation 
+  and with the ground control station's mission planner for tracking. It uses an RFD900x2 long-range radio modem and 
+  5G dongles to transmit and receive the data.   
 </p>
 ![Drone swarn communication](images/UAV swarms.jpg)
 
