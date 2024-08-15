@@ -39,6 +39,9 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    - Collected data from participants and analyzed data using Kaldi and Tensorflow.
 
 ## Projects
+**Title**: ***Drone Swarm Communication and co-ordination using RFD modem and 5G technology***
+<p align="justify">
+[!Drone swarn communication](images/)
 **Title**: ***Codebook Design and Autoencoder-based Codeword Selection for RIS-assisted Communications***
 
 <p align="justify"> 
