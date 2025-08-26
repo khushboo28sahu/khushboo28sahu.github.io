@@ -10,7 +10,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 
 ## Research Experience
 **R&D Ekspert** | Orange Polska S.A, Warsaw \
-   **Date**:_March 2025 - Present_ \
+   **Date**:_March 2025 - Present_  \
    - Working on End-to-End network slicing and orchestration
      
 **Project Research Engineer** | Indian Institute of Technology, Bombay \
