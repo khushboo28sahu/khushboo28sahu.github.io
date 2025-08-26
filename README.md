@@ -9,8 +9,12 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
   - **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* | _August 2015 - July 2019_
 
 ## Research Experience
+**R&D Ekspert** | Orange Polska S.A, Warsaw \
+   **Supervisor**:_March 2025 - Present_\
+   - Working on End-to-End network slicing and orchestration
+     
 **Project Research Engineer** | Indian Institute of Technology, Bombay \
-   **Supervisor**: _April 2024 - Present_ \
+   **Supervisor**: _April 2024 - March 2025_ \
    **Project Title**: *Development of Smart Drone Ecosystem and Demonstration of Social Applications Towards Larger Drone Deployment Strategy of Maharashtra.*
    - Working on the drone communication, specifically drone-to-drone, drone-to-ground control station (GCS), and drone-to-docking station.
    - Currently working on drone swarm communication in ros based rpi-setup along with Cube Orange + and RFD modem.
