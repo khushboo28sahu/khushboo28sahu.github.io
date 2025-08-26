@@ -10,25 +10,25 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 
 ## Research Experience
 **R&D Ekspert** | Orange Polska S.A, Warsaw \
-   **Date**:_March 2025 - Present_\
+   **Date**:_March 2025 - Present_ \
    - Working on End-to-End network slicing and orchestration
      
 **Project Research Engineer** | Indian Institute of Technology, Bombay \
-   **Supervisor**: _April 2024 - March 2025_ \
+   **Date**: _April 2024 - March 2025_ \
    **Project Title**: *Development of Smart Drone Ecosystem and Demonstration of Social Applications Towards Larger Drone Deployment Strategy of Maharashtra.*
    - Working on the drone communication, specifically drone-to-drone, drone-to-ground control station (GCS), and drone-to-docking station.
    - Currently working on drone swarm communication in ros based rpi-setup along with Cube Orange + and RFD modem.
    - Exploring state-of-the-art protocols to establish the reliable and efficient connection between the sensors and drone.
 
  **Junior Research Fellow** | Indian Institute of Technology, Bhilai \
-   **Supervisor**: _November 2022 - December 2023_ \
+   **Date**: _November 2022 - December 2023_ \
    **Project Title**: *Smart Radio Environments: Implementation And Deployment For Targeted Use-Cases.*
    - Developed Autoencoder model, Flask REST APIs, service discovery protocol and participated in TSDSI \
      standardization for IRS-based 6G wireless communication.
    - Developed prototype of IRS with Channel Estimator and IRS Generic Controller.
    
   **Junior Research Fellow** | *Indian Institute of Technology, Bhilai*\
-   **Supervisor**:  _March 2022 - October 2022_\
+   **Date**:  _March 2022 - October 2022_\
    **Project Title:** *Massive Multi-Access to Provide UHD Quality Video And Real-time Data Delivery From 
      a Connected Mobile Ambulance And Its Extension To Other Disaster Recovery Scenarios.*
    - Contributed to system architecture, algorithm development, and prototype development of massive\
@@ -36,7 +36,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
    - Developed a public Flask API server with the hospital web application.
 
  **Master’s Thesis** | *Collaborated Govivace-Inc & IIIT NR*\
-   **Supervisor**:  _September 2020 - May 2021_\
+   **Date**:  _September 2020 - May 2021_\
    **Project Title**: *Speaker Accent Identification Using The Time Delay Neural Network Architecture For The
    Indian Language.*
    - Developed the Time Delay Neural Network model to identify Indian speakers’ accents.
