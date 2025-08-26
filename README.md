@@ -6,7 +6,7 @@ Curious explorer with a persistent drive for innovation in Science and Technolog
 
 ## Education 
   - **Master of Technology**, CSE, Specialization: DS&AI | *International Institute of Information Technology, Naya Raipur* | _August 2019 - July 2021_
-  - **Bachelor of Engineering**, CSE | *Shri Shankaracharya Technical College, Bhilai* | _August 2015 - July 2019_
+  - **Bachelor of Engineering**, CSE | *Chhattisgarh Swami Vivekanand Technical University, Bhilai* | _August 2015 - July 2019_
 
 ## Research Experience
 **R&D Ekspert** | Orange Polska S.A, Warsaw \
